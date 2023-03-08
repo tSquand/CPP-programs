@@ -1,0 +1,4 @@
+Sandra King 75 84 98 96 86 70 32
+Jason Briggs 82 71 72 81 80 72 29
+Tina Simpson 55 60 62 54 68 31 31
+Jack Smith 0 0 0 0 45 0 1
